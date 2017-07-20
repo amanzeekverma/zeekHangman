@@ -1,0 +1,14 @@
+ZeeK Hangman
+Facebook Messenger Platform chatbot.
+
+This is already launched in Facebook messenger:
+To test use following link
+https://m.me/196241737522129
+
+Contact: Aman ZeeK Verma (avD.ZeeK@gmail.com)
+
+Tested with JDK8
+Addiitonal libraries
+	mysql
+	json/gson
+	http client and core
