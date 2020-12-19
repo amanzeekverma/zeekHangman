@@ -5,6 +5,9 @@ This is already launched in Facebook messenger:
 To test use following link
 https://m.me/196241737522129
 
+UPDATE: This is currently defunct. The code can be checked out though
+FB API has been changed a lot since this was created, so the API calls may have different contract now.
+
 Contact: Aman ZeeK Verma (avD.ZeeK@gmail.com)
 
 Tested with JDK8
